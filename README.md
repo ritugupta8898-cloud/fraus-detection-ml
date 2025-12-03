@@ -58,14 +58,10 @@ fraud-detection-ml/
 ---
 
 ## 📉 Confusion Matrix
-
-![Confusion Matrix](reports/figures/confusion_matrix.png)
-
----
+<img src="reports/figures/confusion_matrix.png" width="450"/>
 
 ## 📈 ROC Curve
-
-![ROC Curve](reports/figures/roc_curve.png)
+<img src="reports/figures/roc_curve.png" width="450"/>
 
 
 ## 🛠️ How to Run
