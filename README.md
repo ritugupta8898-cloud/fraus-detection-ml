@@ -55,15 +55,14 @@ fraud-detection-ml/
 | ROC-AUC     | 0.918  |
 
 ---
+## 📉 Confusion Matrix
+<img src="reports/figures/confusion_matrix.png" width="500"/>
+
 ---
 
-## 📉 Confusion Matrix
-<img src="/Users/pratyushgupta/Documents/fraud-detection-ml/reports/confusion_matrix.png" width="450"/>
-
 ## 📈 ROC Curve
-<img src="/Users/pratyushgupta/Documents/fraud-detection-ml/reports/roc_curve.png" width="450"/>
-
-
+<img src="reports/figures/roc_curve.png" width="500"/>
+---
 ## 🛠️ How to Run
 
 ```bash
