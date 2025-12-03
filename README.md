@@ -55,6 +55,18 @@ fraud-detection-ml/
 | ROC-AUC     | 0.918  |
 
 ---
+---
+
+## 📉 Confusion Matrix
+
+![Confusion Matrix](reports/figures/confusion_matrix.png)
+
+---
+
+## 📈 ROC Curve
+
+![ROC Curve](reports/figures/roc_curve.png)
+
 
 ## 🛠️ How to Run
 
@@ -73,8 +85,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ---
 
 ## 🔮 Future Enhancements
-
-- Confusion matrix + ROC curve  
+ 
 - XGBoost & LightGBM models  
 - Save best model (`best_model.pkl`)  
 - FastAPI prediction endpoint  
