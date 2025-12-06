@@ -69,17 +69,17 @@ fraud-detection-ml/
 ## 📉 Confusion Matrices
 
 ### 🔷 Random Forest Confusion Matrix  
-<img src="reports/figures/confusion_rf.png" width="500"/>
+<img src="reports/figures/confusion_matrix.png" width="500"/>
 
 ### 🔷 Linear SVM Confusion Matrix  
-<img src="reports/figures/confusion_svm.png" width="500"/>
+<img src="reports/figures/confusion_matrix_svm.png" width="500"/>
 
 ---
 
 ## 📈 ROC Curves
 
 ### 🔷 Random Forest ROC Curve  
-<img src="reports/figures/roc_rf.png" width="500"/>
+<img src="reports/figures/roc_curve.png" width="500"/>
 
 ### 🔷 Linear SVM ROC Curve  
 <img src="reports/figures/roc_svm.png" width="500"/>
